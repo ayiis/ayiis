@@ -1,6 +1,7 @@
 ### Hello from ayiis. 👋
 
 I am a code builder. I am always building.
+![](https://github.com/ayiis/ayiis/raw/master/daily.png) ~ ![](https://github.com/ayiis/ayiis/raw/master/weekly.png)
 
 <!--
 **ayiis/ayiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
