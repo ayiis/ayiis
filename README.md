@@ -2,4 +2,7 @@
 
 新版博客终于上线啦～
 
+
+<!--
 ![](https://github.com/ayiis/ayiis/raw/master/daily.png) ~ ![](https://github.com/ayiis/ayiis/raw/master/weekly.png)
+-->
