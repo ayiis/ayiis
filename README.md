@@ -2,6 +2,8 @@
 
 I am a code builder. I am always building.
 
+Visit [My blog](https://ayiis.me/).
+
 ![](https://github.com/ayiis/ayiis/raw/master/daily.png) ~ ![](https://github.com/ayiis/ayiis/raw/master/weekly.png)
 
 <!--
